@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner - Giovanna Marina" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">👩‍🔬 Giovanna Marina</h1>
+<h1 align="center"> Giovanna Marina</h1>
 
 ---
 
