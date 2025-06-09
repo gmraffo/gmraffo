@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="banner.png" alt="Banner - Giovanna Marina" style="border-radius: 12px;" />
-</p>
 
-<h1 align="center"> Giovanna Marina</h1>
+<h1 align="center"> Giovanna Marina </h1>
 
 ---
 
@@ -11,6 +8,12 @@
 🌍 Aberta a **estágios**, **projetos de pesquisa** e **colaborações remotas**
 
 ---
+
+## 📚 Atualmente estudando
+
+- 🧬 Bioinformática com Python (Biopython, Pandas, Numpy);
+- 💡 Estrutura de Dados e Algoritmos em C;
+- 🧠 Aplicações de Machine Learning para saúde;
 
 ## 🛠️ Habilidades Técnicas
 
@@ -42,3 +45,8 @@
 ## 📫 Contato
 
 ✉️ gmarinaraffo@gmail.com  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmraffo&show_icons=true&theme=radical" />
+</p>
+
