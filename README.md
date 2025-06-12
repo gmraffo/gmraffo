@@ -43,7 +43,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gmraffo&theme=flat&no-frame=true&margin-w=8" />
 
-<img src="https://github.com/gmraffo/gmraffo/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  ![Snake animation](https://github.com/gmraffo/gmraffo/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
 </div>
 
