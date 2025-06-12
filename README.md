@@ -7,8 +7,6 @@
 🧬 Interesses: **engenharia biomédica**, **bioinformática**, **automação**, **desenvolvimento web**  
 🌍 Aberta a **estágios**, **projetos de pesquisa** e **colaborações remotas**
 
----
-
 ## 📚 Atualmente estudando
 
 - 🧬 Bioinformática com Python (Biopython, Pandas, Numpy);
@@ -17,7 +15,7 @@
 
 ## 🛠️ Habilidades Técnicas
 
-### 💻 Linguagens
+## 💻 Linguagens
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -26,7 +24,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🧰 Ferramentas e Plataformas
+## 🧰 Ferramentas e Plataformas
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat&logo=platformio&logoColor=white)
@@ -36,7 +34,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🌐 Idiomas
+## 🌐 Idiomas
 
 ![Inglês Avançado](https://img.shields.io/badge/Inglês-Avançado-blue)
 
