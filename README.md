@@ -3,14 +3,6 @@
 
 *University Student:* **Computer Engineering** & **B.Sc. in Mathematics** 🇧🇷
 
-*Interests:* **biomedical engineering**, **bioinformatics**, **automation**, **web development**;
-
-*Studying:*
-    
-  - Bioinformatics with Python (Biopython, Pandas, NumPy);
-  - Data Structures & Algorithms in C;
-  - Machine Learning applications in biomedical & bioinformatic fields;
-      
 <div align="center">
 
 ##### Programming Languages
