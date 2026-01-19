@@ -1,7 +1,7 @@
 
 <h2 align="center"> Giovanna Marina </h2>
 
-*University Student:* **Computer Engineering** & **B.Sc. in Mathematics** 🇧🇷
+*University Student:* **Computer Engineering** 🇧🇷
 
 <div align="center">
 
